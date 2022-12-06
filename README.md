@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm just testing this new feature from github.
 
 <!--
 **danielpipe2203/danielpipe2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Front-end Developer (Junior)
+- 🌱 I’m currently learning ...Javascript, Vue Js and Angular
+- 👯 I’m looking to collaborate on Web Projects and Apps
+- 🤔 I’m looking for help finding a remote work in UK/US
+- 💬 Ask me about music and how to produce it
+- 📫 How to reach me: danieling2203@gmail.com 
+- ⚡ Fun fact: I'm still working on it :(
+
